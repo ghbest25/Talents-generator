@@ -1,0 +1,1562 @@
+[
+  {
+    "name": "Talent 1: Dcgen",
+    "category": "Personality-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 1: Dcgen.",
+    "effects": {
+      "E": "Talent 1: Dcgen Effect E",
+      "C": "Talent 1: Dcgen Effect C",
+      "A": "Talent 1: Dcgen Effect A"
+    },
+    "world_notes": "Talent 1: Dcgen fits within the Personality-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 2: Hpgen",
+    "category": "Combat",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 2: Hpgen.",
+    "effects": {
+      "E": "Talent 2: Hpgen Effect E",
+      "C": "Talent 2: Hpgen Effect C",
+      "A": "Talent 2: Hpgen Effect A"
+    },
+    "world_notes": "Talent 2: Hpgen fits within the Combat category and is rated A tier."
+  },
+  {
+    "name": "Talent 3: Ctgen",
+    "category": "System-Balancing",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 3: Ctgen.",
+    "effects": {
+      "E": "Talent 3: Ctgen Effect E",
+      "C": "Talent 3: Ctgen Effect C",
+      "A": "Talent 3: Ctgen Effect A"
+    },
+    "world_notes": "Talent 3: Ctgen fits within the System-Balancing category and is rated B tier."
+  },
+  {
+    "name": "Talent 4: Jtgen",
+    "category": "Age-Specific",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 4: Jtgen.",
+    "effects": {
+      "E": "Talent 4: Jtgen Effect E",
+      "C": "Talent 4: Jtgen Effect C",
+      "A": "Talent 4: Jtgen Effect A"
+    },
+    "world_notes": "Talent 4: Jtgen fits within the Age-Specific category and is rated D tier."
+  },
+  {
+    "name": "Talent 5: Aqgen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 5: Aqgen.",
+    "effects": {
+      "E": "Talent 5: Aqgen Effect E",
+      "C": "Talent 5: Aqgen Effect C",
+      "A": "Talent 5: Aqgen Effect A"
+    },
+    "world_notes": "Talent 5: Aqgen fits within the Useless/Comedic category and is rated D tier."
+  },
+  {
+    "name": "Talent 6: Uogen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 6: Uogen.",
+    "effects": {
+      "E": "Talent 6: Uogen Effect E",
+      "C": "Talent 6: Uogen Effect C",
+      "A": "Talent 6: Uogen Effect A"
+    },
+    "world_notes": "Talent 6: Uogen fits within the Nature-Based category and is rated C tier."
+  },
+  {
+    "name": "Talent 7: Rlgen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 7: Rlgen.",
+    "effects": {
+      "E": "Talent 7: Rlgen Effect E",
+      "C": "Talent 7: Rlgen Effect C",
+      "A": "Talent 7: Rlgen Effect A"
+    },
+    "world_notes": "Talent 7: Rlgen fits within the Chaos/Chance category and is rated F tier."
+  },
+  {
+    "name": "Talent 8: Qjgen",
+    "category": "Age-Specific",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 8: Qjgen.",
+    "effects": {
+      "E": "Talent 8: Qjgen Effect E",
+      "C": "Talent 8: Qjgen Effect C",
+      "A": "Talent 8: Qjgen Effect A"
+    },
+    "world_notes": "Talent 8: Qjgen fits within the Age-Specific category and is rated C tier."
+  },
+  {
+    "name": "Talent 9: Sygen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 9: Sygen.",
+    "effects": {
+      "E": "Talent 9: Sygen Effect E",
+      "C": "Talent 9: Sygen Effect C",
+      "A": "Talent 9: Sygen Effect A"
+    },
+    "world_notes": "Talent 9: Sygen fits within the Nature-Based category and is rated C tier."
+  },
+  {
+    "name": "Talent 10: Crgen",
+    "category": "Personality-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 10: Crgen.",
+    "effects": {
+      "E": "Talent 10: Crgen Effect E",
+      "C": "Talent 10: Crgen Effect C",
+      "A": "Talent 10: Crgen Effect A"
+    },
+    "world_notes": "Talent 10: Crgen fits within the Personality-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 11: Ttgen",
+    "category": "Relationship-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 11: Ttgen.",
+    "effects": {
+      "E": "Talent 11: Ttgen Effect E",
+      "C": "Talent 11: Ttgen Effect C",
+      "A": "Talent 11: Ttgen Effect A"
+    },
+    "world_notes": "Talent 11: Ttgen fits within the Relationship-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 12: Hbgen",
+    "category": "Artisan/Trade",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 12: Hbgen.",
+    "effects": {
+      "E": "Talent 12: Hbgen Effect E",
+      "C": "Talent 12: Hbgen Effect C",
+      "A": "Talent 12: Hbgen Effect A"
+    },
+    "world_notes": "Talent 12: Hbgen fits within the Artisan/Trade category and is rated B tier."
+  },
+  {
+    "name": "Talent 13: Fwgen",
+    "category": "Divine/Religious",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 13: Fwgen.",
+    "effects": {
+      "E": "Talent 13: Fwgen Effect E",
+      "C": "Talent 13: Fwgen Effect C",
+      "A": "Talent 13: Fwgen Effect A"
+    },
+    "world_notes": "Talent 13: Fwgen fits within the Divine/Religious category and is rated C tier."
+  },
+  {
+    "name": "Talent 14: Rlgen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 14: Rlgen.",
+    "effects": {
+      "E": "Talent 14: Rlgen Effect E",
+      "C": "Talent 14: Rlgen Effect C",
+      "A": "Talent 14: Rlgen Effect A"
+    },
+    "world_notes": "Talent 14: Rlgen fits within the Useless/Comedic category and is rated D tier."
+  },
+  {
+    "name": "Talent 15: Bmgen",
+    "category": "Artisan/Trade",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 15: Bmgen.",
+    "effects": {
+      "E": "Talent 15: Bmgen Effect E",
+      "C": "Talent 15: Bmgen Effect C",
+      "A": "Talent 15: Bmgen Effect A"
+    },
+    "world_notes": "Talent 15: Bmgen fits within the Artisan/Trade category and is rated F tier."
+  },
+  {
+    "name": "Talent 16: Yqgen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 16: Yqgen.",
+    "effects": {
+      "E": "Talent 16: Yqgen Effect E",
+      "C": "Talent 16: Yqgen Effect C",
+      "A": "Talent 16: Yqgen Effect A"
+    },
+    "world_notes": "Talent 16: Yqgen fits within the Nature-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 17: Ingen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 17: Ingen.",
+    "effects": {
+      "E": "Talent 17: Ingen Effect E",
+      "C": "Talent 17: Ingen Effect C",
+      "A": "Talent 17: Ingen Effect A"
+    },
+    "world_notes": "Talent 17: Ingen fits within the Emotional-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 18: Mlgen",
+    "category": "Age-Specific",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 18: Mlgen.",
+    "effects": {
+      "E": "Talent 18: Mlgen Effect E",
+      "C": "Talent 18: Mlgen Effect C",
+      "A": "Talent 18: Mlgen Effect A"
+    },
+    "world_notes": "Talent 18: Mlgen fits within the Age-Specific category and is rated B tier."
+  },
+  {
+    "name": "Talent 19: Afgen",
+    "category": "Relationship-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 19: Afgen.",
+    "effects": {
+      "E": "Talent 19: Afgen Effect E",
+      "C": "Talent 19: Afgen Effect C",
+      "A": "Talent 19: Afgen Effect A"
+    },
+    "world_notes": "Talent 19: Afgen fits within the Relationship-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 20: Tvgen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 20: Tvgen.",
+    "effects": {
+      "E": "Talent 20: Tvgen Effect E",
+      "C": "Talent 20: Tvgen Effect C",
+      "A": "Talent 20: Tvgen Effect A"
+    },
+    "world_notes": "Talent 20: Tvgen fits within the Hybrid/One-of-a-Kind category and is rated B tier."
+  },
+  {
+    "name": "Talent 21: Shgen",
+    "category": "Science-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 21: Shgen.",
+    "effects": {
+      "E": "Talent 21: Shgen Effect E",
+      "C": "Talent 21: Shgen Effect C",
+      "A": "Talent 21: Shgen Effect A"
+    },
+    "world_notes": "Talent 21: Shgen fits within the Science-Based category and is rated D tier."
+  },
+  {
+    "name": "Talent 22: Adgen",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 22: Adgen.",
+    "effects": {
+      "E": "Talent 22: Adgen Effect E",
+      "C": "Talent 22: Adgen Effect C",
+      "A": "Talent 22: Adgen Effect A"
+    },
+    "world_notes": "Talent 22: Adgen fits within the Non-Combat Support category and is rated A tier."
+  },
+  {
+    "name": "Talent 23: Qigen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 23: Qigen.",
+    "effects": {
+      "E": "Talent 23: Qigen Effect E",
+      "C": "Talent 23: Qigen Effect C",
+      "A": "Talent 23: Qigen Effect A"
+    },
+    "world_notes": "Talent 23: Qigen fits within the Nature-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 24: Nogen",
+    "category": "Divine/Religious",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 24: Nogen.",
+    "effects": {
+      "E": "Talent 24: Nogen Effect E",
+      "C": "Talent 24: Nogen Effect C",
+      "A": "Talent 24: Nogen Effect A"
+    },
+    "world_notes": "Talent 24: Nogen fits within the Divine/Religious category and is rated B tier."
+  },
+  {
+    "name": "Talent 25: Yegen",
+    "category": "Relationship-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 25: Yegen.",
+    "effects": {
+      "E": "Talent 25: Yegen Effect E",
+      "C": "Talent 25: Yegen Effect C",
+      "A": "Talent 25: Yegen Effect A"
+    },
+    "world_notes": "Talent 25: Yegen fits within the Relationship-Based category and is rated D tier."
+  },
+  {
+    "name": "Talent 26: Oggen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 26: Oggen.",
+    "effects": {
+      "E": "Talent 26: Oggen Effect E",
+      "C": "Talent 26: Oggen Effect C",
+      "A": "Talent 26: Oggen Effect A"
+    },
+    "world_notes": "Talent 26: Oggen fits within the Emotional-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 27: Zlgen",
+    "category": "System-Balancing",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 27: Zlgen.",
+    "effects": {
+      "E": "Talent 27: Zlgen Effect E",
+      "C": "Talent 27: Zlgen Effect C",
+      "A": "Talent 27: Zlgen Effect A"
+    },
+    "world_notes": "Talent 27: Zlgen fits within the System-Balancing category and is rated C tier."
+  },
+  {
+    "name": "Talent 28: Ljgen",
+    "category": "Science-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 28: Ljgen.",
+    "effects": {
+      "E": "Talent 28: Ljgen Effect E",
+      "C": "Talent 28: Ljgen Effect C",
+      "A": "Talent 28: Ljgen Effect A"
+    },
+    "world_notes": "Talent 28: Ljgen fits within the Science-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 29: Dpgen",
+    "category": "Artisan/Trade",
+    "rarity": "\u2b50 Common",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 29: Dpgen.",
+    "effects": {
+      "E": "Talent 29: Dpgen Effect E",
+      "C": "Talent 29: Dpgen Effect C",
+      "A": "Talent 29: Dpgen Effect A"
+    },
+    "world_notes": "Talent 29: Dpgen fits within the Artisan/Trade category and is rated B tier."
+  },
+  {
+    "name": "Talent 30: Hogen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 30: Hogen.",
+    "effects": {
+      "E": "Talent 30: Hogen Effect E",
+      "C": "Talent 30: Hogen Effect C",
+      "A": "Talent 30: Hogen Effect A"
+    },
+    "world_notes": "Talent 30: Hogen fits within the Emotional-Based category and is rated C tier."
+  },
+  {
+    "name": "Talent 31: Eugen",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 31: Eugen.",
+    "effects": {
+      "E": "Talent 31: Eugen Effect E",
+      "C": "Talent 31: Eugen Effect C",
+      "A": "Talent 31: Eugen Effect A"
+    },
+    "world_notes": "Talent 31: Eugen fits within the Non-Combat Support category and is rated A tier."
+  },
+  {
+    "name": "Talent 32: Qrgen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 32: Qrgen.",
+    "effects": {
+      "E": "Talent 32: Qrgen Effect E",
+      "C": "Talent 32: Qrgen Effect C",
+      "A": "Talent 32: Qrgen Effect A"
+    },
+    "world_notes": "Talent 32: Qrgen fits within the Chaos/Chance category and is rated C tier."
+  },
+  {
+    "name": "Talent 33: Kjgen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 33: Kjgen.",
+    "effects": {
+      "E": "Talent 33: Kjgen Effect E",
+      "C": "Talent 33: Kjgen Effect C",
+      "A": "Talent 33: Kjgen Effect A"
+    },
+    "world_notes": "Talent 33: Kjgen fits within the Chaos/Chance category and is rated B tier."
+  },
+  {
+    "name": "Talent 34: Pugen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 34: Pugen.",
+    "effects": {
+      "E": "Talent 34: Pugen Effect E",
+      "C": "Talent 34: Pugen Effect C",
+      "A": "Talent 34: Pugen Effect A"
+    },
+    "world_notes": "Talent 34: Pugen fits within the Emotional-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 35: Exgen",
+    "category": "Relationship-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 35: Exgen.",
+    "effects": {
+      "E": "Talent 35: Exgen Effect E",
+      "C": "Talent 35: Exgen Effect C",
+      "A": "Talent 35: Exgen Effect A"
+    },
+    "world_notes": "Talent 35: Exgen fits within the Relationship-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 36: Vbgen",
+    "category": "Science-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 36: Vbgen.",
+    "effects": {
+      "E": "Talent 36: Vbgen Effect E",
+      "C": "Talent 36: Vbgen Effect C",
+      "A": "Talent 36: Vbgen Effect A"
+    },
+    "world_notes": "Talent 36: Vbgen fits within the Science-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 37: Akgen",
+    "category": "Science-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 37: Akgen.",
+    "effects": {
+      "E": "Talent 37: Akgen Effect E",
+      "C": "Talent 37: Akgen Effect C",
+      "A": "Talent 37: Akgen Effect A"
+    },
+    "world_notes": "Talent 37: Akgen fits within the Science-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 38: Begen",
+    "category": "System-Balancing",
+    "rarity": "\u2b50 Common",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 38: Begen.",
+    "effects": {
+      "E": "Talent 38: Begen Effect E",
+      "C": "Talent 38: Begen Effect C",
+      "A": "Talent 38: Begen Effect A"
+    },
+    "world_notes": "Talent 38: Begen fits within the System-Balancing category and is rated B tier."
+  },
+  {
+    "name": "Talent 39: Hagen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 39: Hagen.",
+    "effects": {
+      "E": "Talent 39: Hagen Effect E",
+      "C": "Talent 39: Hagen Effect C",
+      "A": "Talent 39: Hagen Effect A"
+    },
+    "world_notes": "Talent 39: Hagen fits within the Useless/Comedic category and is rated A tier."
+  },
+  {
+    "name": "Talent 40: Ucgen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 40: Ucgen.",
+    "effects": {
+      "E": "Talent 40: Ucgen Effect E",
+      "C": "Talent 40: Ucgen Effect C",
+      "A": "Talent 40: Ucgen Effect A"
+    },
+    "world_notes": "Talent 40: Ucgen fits within the Nature-Based category and is rated D tier."
+  },
+  {
+    "name": "Talent 41: Jqgen",
+    "category": "Artisan/Trade",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 41: Jqgen.",
+    "effects": {
+      "E": "Talent 41: Jqgen Effect E",
+      "C": "Talent 41: Jqgen Effect C",
+      "A": "Talent 41: Jqgen Effect A"
+    },
+    "world_notes": "Talent 41: Jqgen fits within the Artisan/Trade category and is rated F tier."
+  },
+  {
+    "name": "Talent 42: Tagen",
+    "category": "Divine/Religious",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 42: Tagen.",
+    "effects": {
+      "E": "Talent 42: Tagen Effect E",
+      "C": "Talent 42: Tagen Effect C",
+      "A": "Talent 42: Tagen Effect A"
+    },
+    "world_notes": "Talent 42: Tagen fits within the Divine/Religious category and is rated A tier."
+  },
+  {
+    "name": "Talent 43: Kzgen",
+    "category": "Relationship-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 43: Kzgen.",
+    "effects": {
+      "E": "Talent 43: Kzgen Effect E",
+      "C": "Talent 43: Kzgen Effect C",
+      "A": "Talent 43: Kzgen Effect A"
+    },
+    "world_notes": "Talent 43: Kzgen fits within the Relationship-Based category and is rated C tier."
+  },
+  {
+    "name": "Talent 44: Xlgen",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 44: Xlgen.",
+    "effects": {
+      "E": "Talent 44: Xlgen Effect E",
+      "C": "Talent 44: Xlgen Effect C",
+      "A": "Talent 44: Xlgen Effect A"
+    },
+    "world_notes": "Talent 44: Xlgen fits within the Non-Combat Support category and is rated A tier."
+  },
+  {
+    "name": "Talent 45: Ykgen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 45: Ykgen.",
+    "effects": {
+      "E": "Talent 45: Ykgen Effect E",
+      "C": "Talent 45: Ykgen Effect C",
+      "A": "Talent 45: Ykgen Effect A"
+    },
+    "world_notes": "Talent 45: Ykgen fits within the Nature-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 46: Nlgen",
+    "category": "Artisan/Trade",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 46: Nlgen.",
+    "effects": {
+      "E": "Talent 46: Nlgen Effect E",
+      "C": "Talent 46: Nlgen Effect C",
+      "A": "Talent 46: Nlgen Effect A"
+    },
+    "world_notes": "Talent 46: Nlgen fits within the Artisan/Trade category and is rated F tier."
+  },
+  {
+    "name": "Talent 47: Vsgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 47: Vsgen.",
+    "effects": {
+      "E": "Talent 47: Vsgen Effect E",
+      "C": "Talent 47: Vsgen Effect C",
+      "A": "Talent 47: Vsgen Effect A"
+    },
+    "world_notes": "Talent 47: Vsgen fits within the Emotional-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 48: Afgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 48: Afgen.",
+    "effects": {
+      "E": "Talent 48: Afgen Effect E",
+      "C": "Talent 48: Afgen Effect C",
+      "A": "Talent 48: Afgen Effect A"
+    },
+    "world_notes": "Talent 48: Afgen fits within the Emotional-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 49: Sngen",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 49: Sngen.",
+    "effects": {
+      "E": "Talent 49: Sngen Effect E",
+      "C": "Talent 49: Sngen Effect C",
+      "A": "Talent 49: Sngen Effect A"
+    },
+    "world_notes": "Talent 49: Sngen fits within the Non-Combat Support category and is rated A tier."
+  },
+  {
+    "name": "Talent 50: Jhgen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 50: Jhgen.",
+    "effects": {
+      "E": "Talent 50: Jhgen Effect E",
+      "C": "Talent 50: Jhgen Effect C",
+      "A": "Talent 50: Jhgen Effect A"
+    },
+    "world_notes": "Talent 50: Jhgen fits within the Useless/Comedic category and is rated F tier."
+  },
+  {
+    "name": "Talent 51: Slgen",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 51: Slgen.",
+    "effects": {
+      "E": "Talent 51: Slgen Effect E",
+      "C": "Talent 51: Slgen Effect C",
+      "A": "Talent 51: Slgen Effect A"
+    },
+    "world_notes": "Talent 51: Slgen fits within the Non-Combat Support category and is rated B tier."
+  },
+  {
+    "name": "Talent 52: Plgen",
+    "category": "Science-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 52: Plgen.",
+    "effects": {
+      "E": "Talent 52: Plgen Effect E",
+      "C": "Talent 52: Plgen Effect C",
+      "A": "Talent 52: Plgen Effect A"
+    },
+    "world_notes": "Talent 52: Plgen fits within the Science-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 53: Ungen",
+    "category": "Personality-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 53: Ungen.",
+    "effects": {
+      "E": "Talent 53: Ungen Effect E",
+      "C": "Talent 53: Ungen Effect C",
+      "A": "Talent 53: Ungen Effect A"
+    },
+    "world_notes": "Talent 53: Ungen fits within the Personality-Based category and is rated C tier."
+  },
+  {
+    "name": "Talent 54: Mpgen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 54: Mpgen.",
+    "effects": {
+      "E": "Talent 54: Mpgen Effect E",
+      "C": "Talent 54: Mpgen Effect C",
+      "A": "Talent 54: Mpgen Effect A"
+    },
+    "world_notes": "Talent 54: Mpgen fits within the Useless/Comedic category and is rated A tier."
+  },
+  {
+    "name": "Talent 55: Rvgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 55: Rvgen.",
+    "effects": {
+      "E": "Talent 55: Rvgen Effect E",
+      "C": "Talent 55: Rvgen Effect C",
+      "A": "Talent 55: Rvgen Effect A"
+    },
+    "world_notes": "Talent 55: Rvgen fits within the Emotional-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 56: Otgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 56: Otgen.",
+    "effects": {
+      "E": "Talent 56: Otgen Effect E",
+      "C": "Talent 56: Otgen Effect C",
+      "A": "Talent 56: Otgen Effect A"
+    },
+    "world_notes": "Talent 56: Otgen fits within the Emotional-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 57: Wjgen",
+    "category": "Artisan/Trade",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 57: Wjgen.",
+    "effects": {
+      "E": "Talent 57: Wjgen Effect E",
+      "C": "Talent 57: Wjgen Effect C",
+      "A": "Talent 57: Wjgen Effect A"
+    },
+    "world_notes": "Talent 57: Wjgen fits within the Artisan/Trade category and is rated A tier."
+  },
+  {
+    "name": "Talent 58: Kbgen",
+    "category": "Age-Specific",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 58: Kbgen.",
+    "effects": {
+      "E": "Talent 58: Kbgen Effect E",
+      "C": "Talent 58: Kbgen Effect C",
+      "A": "Talent 58: Kbgen Effect A"
+    },
+    "world_notes": "Talent 58: Kbgen fits within the Age-Specific category and is rated B tier."
+  },
+  {
+    "name": "Talent 59: Dzgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 59: Dzgen.",
+    "effects": {
+      "E": "Talent 59: Dzgen Effect E",
+      "C": "Talent 59: Dzgen Effect C",
+      "A": "Talent 59: Dzgen Effect A"
+    },
+    "world_notes": "Talent 59: Dzgen fits within the Emotional-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 60: Bxgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 60: Bxgen.",
+    "effects": {
+      "E": "Talent 60: Bxgen Effect E",
+      "C": "Talent 60: Bxgen Effect C",
+      "A": "Talent 60: Bxgen Effect A"
+    },
+    "world_notes": "Talent 60: Bxgen fits within the Emotional-Based category and is rated C tier."
+  },
+  {
+    "name": "Talent 61: Mugen",
+    "category": "Personality-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 61: Mugen.",
+    "effects": {
+      "E": "Talent 61: Mugen Effect E",
+      "C": "Talent 61: Mugen Effect C",
+      "A": "Talent 61: Mugen Effect A"
+    },
+    "world_notes": "Talent 61: Mugen fits within the Personality-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 62: Htgen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 62: Htgen.",
+    "effects": {
+      "E": "Talent 62: Htgen Effect E",
+      "C": "Talent 62: Htgen Effect C",
+      "A": "Talent 62: Htgen Effect A"
+    },
+    "world_notes": "Talent 62: Htgen fits within the Hybrid/One-of-a-Kind category and is rated B tier."
+  },
+  {
+    "name": "Talent 63: Bsgen",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 63: Bsgen.",
+    "effects": {
+      "E": "Talent 63: Bsgen Effect E",
+      "C": "Talent 63: Bsgen Effect C",
+      "A": "Talent 63: Bsgen Effect A"
+    },
+    "world_notes": "Talent 63: Bsgen fits within the Non-Combat Support category and is rated D tier."
+  },
+  {
+    "name": "Talent 64: Vagen",
+    "category": "Divine/Religious",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 64: Vagen.",
+    "effects": {
+      "E": "Talent 64: Vagen Effect E",
+      "C": "Talent 64: Vagen Effect C",
+      "A": "Talent 64: Vagen Effect A"
+    },
+    "world_notes": "Talent 64: Vagen fits within the Divine/Religious category and is rated D tier."
+  },
+  {
+    "name": "Talent 65: Blgen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 65: Blgen.",
+    "effects": {
+      "E": "Talent 65: Blgen Effect E",
+      "C": "Talent 65: Blgen Effect C",
+      "A": "Talent 65: Blgen Effect A"
+    },
+    "world_notes": "Talent 65: Blgen fits within the Useless/Comedic category and is rated A tier."
+  },
+  {
+    "name": "Talent 66: Fagen",
+    "category": "Combat",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 66: Fagen.",
+    "effects": {
+      "E": "Talent 66: Fagen Effect E",
+      "C": "Talent 66: Fagen Effect C",
+      "A": "Talent 66: Fagen Effect A"
+    },
+    "world_notes": "Talent 66: Fagen fits within the Combat category and is rated F tier."
+  },
+  {
+    "name": "Talent 67: Tggen",
+    "category": "Combat",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 67: Tggen.",
+    "effects": {
+      "E": "Talent 67: Tggen Effect E",
+      "C": "Talent 67: Tggen Effect C",
+      "A": "Talent 67: Tggen Effect A"
+    },
+    "world_notes": "Talent 67: Tggen fits within the Combat category and is rated A tier."
+  },
+  {
+    "name": "Talent 68: Krgen",
+    "category": "Science-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 68: Krgen.",
+    "effects": {
+      "E": "Talent 68: Krgen Effect E",
+      "C": "Talent 68: Krgen Effect C",
+      "A": "Talent 68: Krgen Effect A"
+    },
+    "world_notes": "Talent 68: Krgen fits within the Science-Based category and is rated C tier."
+  },
+  {
+    "name": "Talent 69: Ndgen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 69: Ndgen.",
+    "effects": {
+      "E": "Talent 69: Ndgen Effect E",
+      "C": "Talent 69: Ndgen Effect C",
+      "A": "Talent 69: Ndgen Effect A"
+    },
+    "world_notes": "Talent 69: Ndgen fits within the Hybrid/One-of-a-Kind category and is rated F tier."
+  },
+  {
+    "name": "Talent 70: Xxgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 70: Xxgen.",
+    "effects": {
+      "E": "Talent 70: Xxgen Effect E",
+      "C": "Talent 70: Xxgen Effect C",
+      "A": "Talent 70: Xxgen Effect A"
+    },
+    "world_notes": "Talent 70: Xxgen fits within the Emotional-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 71: Axgen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 71: Axgen.",
+    "effects": {
+      "E": "Talent 71: Axgen Effect E",
+      "C": "Talent 71: Axgen Effect C",
+      "A": "Talent 71: Axgen Effect A"
+    },
+    "world_notes": "Talent 71: Axgen fits within the Chaos/Chance category and is rated A tier."
+  },
+  {
+    "name": "Talent 72: Zygen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 72: Zygen.",
+    "effects": {
+      "E": "Talent 72: Zygen Effect E",
+      "C": "Talent 72: Zygen Effect C",
+      "A": "Talent 72: Zygen Effect A"
+    },
+    "world_notes": "Talent 72: Zygen fits within the Hybrid/One-of-a-Kind category and is rated A tier."
+  },
+  {
+    "name": "Talent 73: Vagen",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 73: Vagen.",
+    "effects": {
+      "E": "Talent 73: Vagen Effect E",
+      "C": "Talent 73: Vagen Effect C",
+      "A": "Talent 73: Vagen Effect A"
+    },
+    "world_notes": "Talent 73: Vagen fits within the Non-Combat Support category and is rated F tier."
+  },
+  {
+    "name": "Talent 74: Nhgen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 74: Nhgen.",
+    "effects": {
+      "E": "Talent 74: Nhgen Effect E",
+      "C": "Talent 74: Nhgen Effect C",
+      "A": "Talent 74: Nhgen Effect A"
+    },
+    "world_notes": "Talent 74: Nhgen fits within the Chaos/Chance category and is rated C tier."
+  },
+  {
+    "name": "Talent 75: Qagen",
+    "category": "Personality-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 75: Qagen.",
+    "effects": {
+      "E": "Talent 75: Qagen Effect E",
+      "C": "Talent 75: Qagen Effect C",
+      "A": "Talent 75: Qagen Effect A"
+    },
+    "world_notes": "Talent 75: Qagen fits within the Personality-Based category and is rated D tier."
+  },
+  {
+    "name": "Talent 76: Aqgen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 76: Aqgen.",
+    "effects": {
+      "E": "Talent 76: Aqgen Effect E",
+      "C": "Talent 76: Aqgen Effect C",
+      "A": "Talent 76: Aqgen Effect A"
+    },
+    "world_notes": "Talent 76: Aqgen fits within the Useless/Comedic category and is rated F tier."
+  },
+  {
+    "name": "Talent 77: Mogen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 77: Mogen.",
+    "effects": {
+      "E": "Talent 77: Mogen Effect E",
+      "C": "Talent 77: Mogen Effect C",
+      "A": "Talent 77: Mogen Effect A"
+    },
+    "world_notes": "Talent 77: Mogen fits within the Useless/Comedic category and is rated D tier."
+  },
+  {
+    "name": "Talent 78: Abgen",
+    "category": "System-Balancing",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 78: Abgen.",
+    "effects": {
+      "E": "Talent 78: Abgen Effect E",
+      "C": "Talent 78: Abgen Effect C",
+      "A": "Talent 78: Abgen Effect A"
+    },
+    "world_notes": "Talent 78: Abgen fits within the System-Balancing category and is rated F tier."
+  },
+  {
+    "name": "Talent 79: Fxgen",
+    "category": "Personality-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 79: Fxgen.",
+    "effects": {
+      "E": "Talent 79: Fxgen Effect E",
+      "C": "Talent 79: Fxgen Effect C",
+      "A": "Talent 79: Fxgen Effect A"
+    },
+    "world_notes": "Talent 79: Fxgen fits within the Personality-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 80: Hhgen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 80: Hhgen.",
+    "effects": {
+      "E": "Talent 80: Hhgen Effect E",
+      "C": "Talent 80: Hhgen Effect C",
+      "A": "Talent 80: Hhgen Effect A"
+    },
+    "world_notes": "Talent 80: Hhgen fits within the Nature-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 81: Pegen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 81: Pegen.",
+    "effects": {
+      "E": "Talent 81: Pegen Effect E",
+      "C": "Talent 81: Pegen Effect C",
+      "A": "Talent 81: Pegen Effect A"
+    },
+    "world_notes": "Talent 81: Pegen fits within the Nature-Based category and is rated D tier."
+  },
+  {
+    "name": "Talent 82: Kygen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 82: Kygen.",
+    "effects": {
+      "E": "Talent 82: Kygen Effect E",
+      "C": "Talent 82: Kygen Effect C",
+      "A": "Talent 82: Kygen Effect A"
+    },
+    "world_notes": "Talent 82: Kygen fits within the Chaos/Chance category and is rated C tier."
+  },
+  {
+    "name": "Talent 83: Ptgen",
+    "category": "Combat",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 83: Ptgen.",
+    "effects": {
+      "E": "Talent 83: Ptgen Effect E",
+      "C": "Talent 83: Ptgen Effect C",
+      "A": "Talent 83: Ptgen Effect A"
+    },
+    "world_notes": "Talent 83: Ptgen fits within the Combat category and is rated B tier."
+  },
+  {
+    "name": "Talent 84: Kigen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 84: Kigen.",
+    "effects": {
+      "E": "Talent 84: Kigen Effect E",
+      "C": "Talent 84: Kigen Effect C",
+      "A": "Talent 84: Kigen Effect A"
+    },
+    "world_notes": "Talent 84: Kigen fits within the Hybrid/One-of-a-Kind category and is rated A tier."
+  },
+  {
+    "name": "Talent 85: Jegen",
+    "category": "Artisan/Trade",
+    "rarity": "\u2b50 Common",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 85: Jegen.",
+    "effects": {
+      "E": "Talent 85: Jegen Effect E",
+      "C": "Talent 85: Jegen Effect C",
+      "A": "Talent 85: Jegen Effect A"
+    },
+    "world_notes": "Talent 85: Jegen fits within the Artisan/Trade category and is rated F tier."
+  },
+  {
+    "name": "Talent 86: Nygen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50 Common",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 86: Nygen.",
+    "effects": {
+      "E": "Talent 86: Nygen Effect E",
+      "C": "Talent 86: Nygen Effect C",
+      "A": "Talent 86: Nygen Effect A"
+    },
+    "world_notes": "Talent 86: Nygen fits within the Hybrid/One-of-a-Kind category and is rated C tier."
+  },
+  {
+    "name": "Talent 87: Krgen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 87: Krgen.",
+    "effects": {
+      "E": "Talent 87: Krgen Effect E",
+      "C": "Talent 87: Krgen Effect C",
+      "A": "Talent 87: Krgen Effect A"
+    },
+    "world_notes": "Talent 87: Krgen fits within the Useless/Comedic category and is rated C tier."
+  },
+  {
+    "name": "Talent 88: Smgen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 88: Smgen.",
+    "effects": {
+      "E": "Talent 88: Smgen Effect E",
+      "C": "Talent 88: Smgen Effect C",
+      "A": "Talent 88: Smgen Effect A"
+    },
+    "world_notes": "Talent 88: Smgen fits within the Nature-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 89: Wxgen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 89: Wxgen.",
+    "effects": {
+      "E": "Talent 89: Wxgen Effect E",
+      "C": "Talent 89: Wxgen Effect C",
+      "A": "Talent 89: Wxgen Effect A"
+    },
+    "world_notes": "Talent 89: Wxgen fits within the Chaos/Chance category and is rated B tier."
+  },
+  {
+    "name": "Talent 90: Nmgen",
+    "category": "Combat",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 90: Nmgen.",
+    "effects": {
+      "E": "Talent 90: Nmgen Effect E",
+      "C": "Talent 90: Nmgen Effect C",
+      "A": "Talent 90: Nmgen Effect A"
+    },
+    "world_notes": "Talent 90: Nmgen fits within the Combat category and is rated D tier."
+  },
+  {
+    "name": "Talent 91: Bqgen",
+    "category": "Combat",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 91: Bqgen.",
+    "effects": {
+      "E": "Talent 91: Bqgen Effect E",
+      "C": "Talent 91: Bqgen Effect C",
+      "A": "Talent 91: Bqgen Effect A"
+    },
+    "world_notes": "Talent 91: Bqgen fits within the Combat category and is rated A tier."
+  },
+  {
+    "name": "Talent 92: Kigen",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 92: Kigen.",
+    "effects": {
+      "E": "Talent 92: Kigen Effect E",
+      "C": "Talent 92: Kigen Effect C",
+      "A": "Talent 92: Kigen Effect A"
+    },
+    "world_notes": "Talent 92: Kigen fits within the Non-Combat Support category and is rated C tier."
+  },
+  {
+    "name": "Talent 93: Rugen",
+    "category": "Relationship-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 93: Rugen.",
+    "effects": {
+      "E": "Talent 93: Rugen Effect E",
+      "C": "Talent 93: Rugen Effect C",
+      "A": "Talent 93: Rugen Effect A"
+    },
+    "world_notes": "Talent 93: Rugen fits within the Relationship-Based category and is rated C tier."
+  },
+  {
+    "name": "Talent 94: Eagen",
+    "category": "Age-Specific",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 94: Eagen.",
+    "effects": {
+      "E": "Talent 94: Eagen Effect E",
+      "C": "Talent 94: Eagen Effect C",
+      "A": "Talent 94: Eagen Effect A"
+    },
+    "world_notes": "Talent 94: Eagen fits within the Age-Specific category and is rated D tier."
+  },
+  {
+    "name": "Talent 95: Iugen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 95: Iugen.",
+    "effects": {
+      "E": "Talent 95: Iugen Effect E",
+      "C": "Talent 95: Iugen Effect C",
+      "A": "Talent 95: Iugen Effect A"
+    },
+    "world_notes": "Talent 95: Iugen fits within the Useless/Comedic category and is rated D tier."
+  },
+  {
+    "name": "Talent 96: Okgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 96: Okgen.",
+    "effects": {
+      "E": "Talent 96: Okgen Effect E",
+      "C": "Talent 96: Okgen Effect C",
+      "A": "Talent 96: Okgen Effect A"
+    },
+    "world_notes": "Talent 96: Okgen fits within the Emotional-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 97: Ypgen",
+    "category": "Personality-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 97: Ypgen.",
+    "effects": {
+      "E": "Talent 97: Ypgen Effect E",
+      "C": "Talent 97: Ypgen Effect C",
+      "A": "Talent 97: Ypgen Effect A"
+    },
+    "world_notes": "Talent 97: Ypgen fits within the Personality-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 98: Mjgen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 98: Mjgen.",
+    "effects": {
+      "E": "Talent 98: Mjgen Effect E",
+      "C": "Talent 98: Mjgen Effect C",
+      "A": "Talent 98: Mjgen Effect A"
+    },
+    "world_notes": "Talent 98: Mjgen fits within the Hybrid/One-of-a-Kind category and is rated D tier."
+  },
+  {
+    "name": "Talent 99: Gkgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 99: Gkgen.",
+    "effects": {
+      "E": "Talent 99: Gkgen Effect E",
+      "C": "Talent 99: Gkgen Effect C",
+      "A": "Talent 99: Gkgen Effect A"
+    },
+    "world_notes": "Talent 99: Gkgen fits within the Emotional-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 100: Sigen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50 Common",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 100: Sigen.",
+    "effects": {
+      "E": "Talent 100: Sigen Effect E",
+      "C": "Talent 100: Sigen Effect C",
+      "A": "Talent 100: Sigen Effect A"
+    },
+    "world_notes": "Talent 100: Sigen fits within the Hybrid/One-of-a-Kind category and is rated D tier."
+  },
+  {
+    "name": "Talent 101: Hygen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 101: Hygen.",
+    "effects": {
+      "E": "Talent 101: Hygen Effect E",
+      "C": "Talent 101: Hygen Effect C",
+      "A": "Talent 101: Hygen Effect A"
+    },
+    "world_notes": "Talent 101: Hygen fits within the Nature-Based category and is rated C tier."
+  },
+  {
+    "name": "Talent 102: Qkgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 102: Qkgen.",
+    "effects": {
+      "E": "Talent 102: Qkgen Effect E",
+      "C": "Talent 102: Qkgen Effect C",
+      "A": "Talent 102: Qkgen Effect A"
+    },
+    "world_notes": "Talent 102: Qkgen fits within the Emotional-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 103: Ikgen",
+    "category": "Combat",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 103: Ikgen.",
+    "effects": {
+      "E": "Talent 103: Ikgen Effect E",
+      "C": "Talent 103: Ikgen Effect C",
+      "A": "Talent 103: Ikgen Effect A"
+    },
+    "world_notes": "Talent 103: Ikgen fits within the Combat category and is rated C tier."
+  },
+  {
+    "name": "Talent 104: Xcgen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 104: Xcgen.",
+    "effects": {
+      "E": "Talent 104: Xcgen Effect E",
+      "C": "Talent 104: Xcgen Effect C",
+      "A": "Talent 104: Xcgen Effect A"
+    },
+    "world_notes": "Talent 104: Xcgen fits within the Chaos/Chance category and is rated C tier."
+  },
+  {
+    "name": "Talent 105: Ywgen",
+    "category": "Combat",
+    "rarity": "\u2b50 Common",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 105: Ywgen.",
+    "effects": {
+      "E": "Talent 105: Ywgen Effect E",
+      "C": "Talent 105: Ywgen Effect C",
+      "A": "Talent 105: Ywgen Effect A"
+    },
+    "world_notes": "Talent 105: Ywgen fits within the Combat category and is rated D tier."
+  },
+  {
+    "name": "Talent 106: Rygen",
+    "category": "Divine/Religious",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 106: Rygen.",
+    "effects": {
+      "E": "Talent 106: Rygen Effect E",
+      "C": "Talent 106: Rygen Effect C",
+      "A": "Talent 106: Rygen Effect A"
+    },
+    "world_notes": "Talent 106: Rygen fits within the Divine/Religious category and is rated B tier."
+  },
+  {
+    "name": "Talent 107: Wkgen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 107: Wkgen.",
+    "effects": {
+      "E": "Talent 107: Wkgen Effect E",
+      "C": "Talent 107: Wkgen Effect C",
+      "A": "Talent 107: Wkgen Effect A"
+    },
+    "world_notes": "Talent 107: Wkgen fits within the Hybrid/One-of-a-Kind category and is rated A tier."
+  },
+  {
+    "name": "Talent 108: Kfgen",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 108: Kfgen.",
+    "effects": {
+      "E": "Talent 108: Kfgen Effect E",
+      "C": "Talent 108: Kfgen Effect C",
+      "A": "Talent 108: Kfgen Effect A"
+    },
+    "world_notes": "Talent 108: Kfgen fits within the Non-Combat Support category and is rated C tier."
+  },
+  {
+    "name": "Talent 109: Shgen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "rating": "A",
+    "description": "This is a placeholder description for Talent 109: Shgen.",
+    "effects": {
+      "E": "Talent 109: Shgen Effect E",
+      "C": "Talent 109: Shgen Effect C",
+      "A": "Talent 109: Shgen Effect A"
+    },
+    "world_notes": "Talent 109: Shgen fits within the Nature-Based category and is rated A tier."
+  },
+  {
+    "name": "Talent 110: Ubgen",
+    "category": "Age-Specific",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "C",
+    "description": "This is a placeholder description for Talent 110: Ubgen.",
+    "effects": {
+      "E": "Talent 110: Ubgen Effect E",
+      "C": "Talent 110: Ubgen Effect C",
+      "A": "Talent 110: Ubgen Effect A"
+    },
+    "world_notes": "Talent 110: Ubgen fits within the Age-Specific category and is rated C tier."
+  },
+  {
+    "name": "Talent 111: Mzgen",
+    "category": "Hybrid/One-of-a-Kind",
+    "rarity": "\u2b50 Common",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 111: Mzgen.",
+    "effects": {
+      "E": "Talent 111: Mzgen Effect E",
+      "C": "Talent 111: Mzgen Effect C",
+      "A": "Talent 111: Mzgen Effect A"
+    },
+    "world_notes": "Talent 111: Mzgen fits within the Hybrid/One-of-a-Kind category and is rated D tier."
+  },
+  {
+    "name": "Talent 112: Bdgen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 112: Bdgen.",
+    "effects": {
+      "E": "Talent 112: Bdgen Effect E",
+      "C": "Talent 112: Bdgen Effect C",
+      "A": "Talent 112: Bdgen Effect A"
+    },
+    "world_notes": "Talent 112: Bdgen fits within the Chaos/Chance category and is rated F tier."
+  },
+  {
+    "name": "Talent 113: Evgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 113: Evgen.",
+    "effects": {
+      "E": "Talent 113: Evgen Effect E",
+      "C": "Talent 113: Evgen Effect C",
+      "A": "Talent 113: Evgen Effect A"
+    },
+    "world_notes": "Talent 113: Evgen fits within the Emotional-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 114: Exgen",
+    "category": "Emotional-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 114: Exgen.",
+    "effects": {
+      "E": "Talent 114: Exgen Effect E",
+      "C": "Talent 114: Exgen Effect C",
+      "A": "Talent 114: Exgen Effect A"
+    },
+    "world_notes": "Talent 114: Exgen fits within the Emotional-Based category and is rated B tier."
+  },
+  {
+    "name": "Talent 115: Kngen",
+    "category": "Age-Specific",
+    "rarity": "\u2b50\u2b50 Uncommon",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 115: Kngen.",
+    "effects": {
+      "E": "Talent 115: Kngen Effect E",
+      "C": "Talent 115: Kngen Effect C",
+      "A": "Talent 115: Kngen Effect A"
+    },
+    "world_notes": "Talent 115: Kngen fits within the Age-Specific category and is rated F tier."
+  },
+  {
+    "name": "Talent 116: Xsgen",
+    "category": "Nature-Based",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 116: Xsgen.",
+    "effects": {
+      "E": "Talent 116: Xsgen Effect E",
+      "C": "Talent 116: Xsgen Effect C",
+      "A": "Talent 116: Xsgen Effect A"
+    },
+    "world_notes": "Talent 116: Xsgen fits within the Nature-Based category and is rated D tier."
+  },
+  {
+    "name": "Talent 117: Jjgen",
+    "category": "Relationship-Based",
+    "rarity": "\u2b50 Common",
+    "rating": "F",
+    "description": "This is a placeholder description for Talent 117: Jjgen.",
+    "effects": {
+      "E": "Talent 117: Jjgen Effect E",
+      "C": "Talent 117: Jjgen Effect C",
+      "A": "Talent 117: Jjgen Effect A"
+    },
+    "world_notes": "Talent 117: Jjgen fits within the Relationship-Based category and is rated F tier."
+  },
+  {
+    "name": "Talent 118: Wegen",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50\u2b50 Legendary",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 118: Wegen.",
+    "effects": {
+      "E": "Talent 118: Wegen Effect E",
+      "C": "Talent 118: Wegen Effect C",
+      "A": "Talent 118: Wegen Effect A"
+    },
+    "world_notes": "Talent 118: Wegen fits within the Useless/Comedic category and is rated B tier."
+  },
+  {
+    "name": "Talent 119: Tigen",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50 Common",
+    "rating": "B",
+    "description": "This is a placeholder description for Talent 119: Tigen.",
+    "effects": {
+      "E": "Talent 119: Tigen Effect E",
+      "C": "Talent 119: Tigen Effect C",
+      "A": "Talent 119: Tigen Effect A"
+    },
+    "world_notes": "Talent 119: Tigen fits within the Chaos/Chance category and is rated B tier."
+  },
+  {
+    "name": "Talent 120: Nigen",
+    "category": "Artisan/Trade",
+    "rarity": "\u2b50\u2b50\u2b50\u2b50 Mythic",
+    "rating": "D",
+    "description": "This is a placeholder description for Talent 120: Nigen.",
+    "effects": {
+      "E": "Talent 120: Nigen Effect E",
+      "C": "Talent 120: Nigen Effect C",
+      "A": "Talent 120: Nigen Effect A"
+    },
+    "world_notes": "Talent 120: Nigen fits within the Artisan/Trade category and is rated D tier."
+  }
+]

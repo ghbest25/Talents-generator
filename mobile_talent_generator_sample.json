@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Threadwatcher",
+    "category": "Personality-Based",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "description": "You sense the invisible threads connecting events and people.",
+    "effects": {
+      "E": "Hunch Blink \u2013 You sense lies or tension.",
+      "C": "Pattern Catch \u2013 Detects cause/effect or hidden intentions.",
+      "A": "Constellation Sight \u2013 See every link in a situation."
+    },
+    "world_notes": "Common among scholars, tacticians, and quiet planners."
+  },
+  {
+    "name": "Eggsense",
+    "category": "Useless/Comedic",
+    "rarity": "\u2b50 Trivial",
+    "description": "You always know when an egg is about to crack.",
+    "effects": {
+      "E": "Egg Whisper \u2013 Feel eggs under pressure.",
+      "C": "Ovum Alarm \u2013 Sense cracking within 10 seconds.",
+      "A": "Scramble Shout \u2013 No known practical use."
+    },
+    "world_notes": "Mostly used to ruin breakfasts or impress chickens."
+  },
+  {
+    "name": "Soul Ease",
+    "category": "Non-Combat Support",
+    "rarity": "\u2b50\u2b50 Rare",
+    "description": "When holding a dying person\u2019s hand, they pass peacefully.",
+    "effects": {
+      "E": "Peace Touch \u2013 Calms panic in the terminally ill.",
+      "C": "Spirit Drift \u2013 Comforts others during grief.",
+      "A": "Final Blessing \u2013 Leaves behind a warm memory aura."
+    },
+    "world_notes": "Cherished by hospice workers and spiritual guides."
+  },
+  {
+    "name": "Dicebound",
+    "category": "Chaos/Chance",
+    "rarity": "\u2b50\u2b50\u2b50 Rare",
+    "description": "Your power is randomized \u2014 but always potent.",
+    "effects": {
+      "E": "Lucky Spark \u2013 Boost to first actions in an encounter.",
+      "C": "Chaos Draw \u2013 Random elemental effects on interaction.",
+      "A": "Gambler\u2019s Throne \u2013 Unleash a game-breaking power\u2026 or backfire."
+    },
+    "world_notes": "Loved by gamblers, hated by commanders."
+  }
+]
